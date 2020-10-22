@@ -9,5 +9,3 @@ Search for any book you like.
 Add a book to your favorite list.
 
 See authors and their related works.
-
-![alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png)
