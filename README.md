@@ -9,3 +9,5 @@ Search for any book you like.
 Add a book to your favorite list.
 
 See authors and their related works.
+
+![alt text](http://url/to/img.png)
